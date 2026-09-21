@@ -1,0 +1,31 @@
+{
+  "v": 1,
+  "slug": "paper-aisle-invitation",
+  "name": "The Paper Aisle — Digital Baat Pakki Invitation",
+  "description": "A mobile-first digital wedding invitation card built on the Paper Aisle studio design: ivory, plum, mauve, and champagne surfaces with elegant Cormorant Garamond typography and SVG-only ornament. The card opens with a tap-to-unlock wax seal, presents the couple's names and families, hides the ceremony date behind a scratch-to-reveal canvas (finger, cursor, or tap), threads a live countdown to the event, and walks guests through a four-moment program timeline, a venue card with a Google-Maps button, a dress-code palette, and three pre-wedding events. Guests RSVP on the spot with a validated form (name, email, attending choice, party size) that rejects duplicates kindly and bumps a persisted confirmed-guest counter, and can export an add-to-my-calendar .ics with a clipboard fallback. Includes a mock music toggle, a closing arch with couple names and date, toast notifications, a bottom RSVP bar, back-to-top, reduced-motion support, and complete data-fws-slot content annotations.",
+  "category": "business.lifestyle",
+  "slot_schema_version": 1,
+  "author": {
+    "name": "Aryan",
+    "handle": "Aa11rn",
+    "url": "https://github.com/Aa11rn"
+  },
+  "tags": ["wedding", "invitation", "baat-pakki", "nikah", "desi-wedding", "digital-card", "scratch-to-reveal", "countdown", "rsvp", "save-the-date", "mobile-first", "celebrations", "events", "lifestyle"],
+  "features": [
+    "tap-to-unlock opening wax seal",
+    "mock music toggle with state feedback",
+    "scratch-to-reveal ceremony date canvas with finger, cursor, and keyboard reveal",
+    "live threading countdown with compact hero ticker",
+    "four-moment program timeline",
+    "venue card with Google-Maps button",
+    "dress-code note with colour palette swatches",
+    "three pre-wedding event cards with map links",
+    "validated RSVP form with attending choice, party size, duplicates, and reset",
+    "persisted confirmed-guest counter with social-proof avatar stack",
+    "add-to-my-calendar .ics export with clipboard fallback",
+    "closing arch with couple names and date · venue",
+    "toast notifications, bottom RSVP bar, and back-to-top",
+    "fully customizable content via data-fws-slot attributes"
+  ],
+  "license": "MIT"
+}
